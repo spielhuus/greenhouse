@@ -64,7 +64,7 @@ There needs to be a 4.7 kΩ pull-up resistor between Data and VCC.
 |GND| 	GND|
 |DATA| 	A2|
 
-[]()
+[Waterproof Ultrasonic Range Distance Measurement Sensor](http://qqtrading.com.my/waterproof-ultrasonic-range-distance-measurement-sensor-sr04t)
 
 ### ESP-01
 
@@ -90,3 +90,9 @@ There needs to be a 4.7 kΩ pull-up resistor between Data and VCC.
 |SDA| Analog PIN 4 |
 
 [DS1307 Real-Time Clock Modul mit einem Arduino ansteuern](https://www.frag-duino.de/index.php/maker-faq/26-ds1307-real-time-clock-modul-mit-arduino-ansteuern)
+
+
+## Links
+
+* [How many Devices can you Connect to the I2C Bus?](https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/)
+
