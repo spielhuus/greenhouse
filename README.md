@@ -80,6 +80,8 @@ There needs to be a 4.7 kΩ pull-up resistor between Data and VCC.
 
 [Getting Started With the ESP8266 ESP-01](https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
 
+https://www.deviceplus.com/how-tos/arduino-guide/esp8266-setup-tutorial-using-arduino/
+
 ### DS-1307
 
 | Pin| 	Arduino Pin|
