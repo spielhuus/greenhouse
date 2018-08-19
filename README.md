@@ -15,6 +15,7 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 | 1 | [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf) Temperature/Humidity Sensor| 2.54 |
 | 1 | [BMP180](https://www.bosch-sensortec.com/bst/products/all_products/bmp180) Digital Barometric Pressure Sensor Board Module compatible with with BMP085 For Arduino| 1.44 |
 |1 | [DS1820](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) Stainless steel package Waterproof DS18b20 temperature probe temperature sensor 18B20 For Arduino| 1.38 |
+|1 | Resistor 4.7 kΩ | |
 
 ## Wiring
 
@@ -48,6 +49,6 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 |GND| 	GND|
 |DATA| 	A2|
 
-There needs to be a 4.6 kΩ pull-up resistor between Data and VCC.
+There needs to be a 4.7 kΩ pull-up resistor between Data and VCC.
 
 [DS18B20 (digital temperature sensor) and Arduino](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
