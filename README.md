@@ -18,8 +18,8 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 |1 |[SR04T]() Waterproof Ultrasonic Range Distance Measurement Sensor| |
 |1 |[ESP-01](http://www.microchip.ua/wireless/esp01.pdf) Waterproof Ultrasonic Range Distance Measurement Sensor | 1.76 |
 |1 |[DS1307](https://www.sparkfun.com/datasheets/Components/DS1307.pdf) RTC module| 0.54 |
-|1 |[LM317](https://datasheet.octopart.com/LM317TG-ON-Semiconductor-datasheet-613672.pdf) 1.5 A Adjustable Output, Positive Voltage Regulator| |
-|1 | Resistor 4.7 kΩ | |
+|1 |[LM317](https://datasheet.octopart.com/LM317TG-ON-Semiconductor-datasheet-613672.pdf) | 1.5 A Adjustable Output, Positive Voltage Regulator|
+|1 | | Resistor 4.7 kΩ |
 
 ## Wiring
 
