@@ -10,9 +10,9 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 
 ## Components 
 
-|Amount        | Name           | $  |
+|Amount        | Type           | Description  |
 |:------------- |:-------------| -----:|
-| 1 | [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf) Temperature/Humidity Sensor| 2.54 |
+| 1 | [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)|Temperature/Humidity Sensor|
 | 1 | [BMP180](https://www.bosch-sensortec.com/bst/products/all_products/bmp180) Digital Barometric Pressure Sensor Board Module compatible with with BMP085 For Arduino| 1.44 |
 |1 | [DS1820](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) Stainless steel package Waterproof DS18b20 temperature probe temperature sensor 18B20 For Arduino| 1.38 |
 |1 |[SR04T]() Waterproof Ultrasonic Range Distance Measurement Sensor| |
