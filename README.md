@@ -7,6 +7,7 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 
 * Air Temperature and Humidity
 
+[<img src="https://spielhuus.github.io/greenhouse/perfboard.png" alt="perfboard" width="200" height="80">](https://spielhuus.github.io/greenhouse/perfboard.png)
 
 ## Components 
 
