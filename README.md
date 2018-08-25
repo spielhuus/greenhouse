@@ -10,15 +10,16 @@ This is a hydrophonic greenhouse for the garden. The system is built with bato b
 
 ## Components 
 
-|Amount        | Name           | $  |
-|:------------- |:-------------| -----:|
-| 1 | [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf) Temperature/Humidity Sensor| 2.54 |
-| 1 | [BMP180](https://www.bosch-sensortec.com/bst/products/all_products/bmp180) Digital Barometric Pressure Sensor Board Module compatible with with BMP085 For Arduino| 1.44 |
-|1 | [DS1820](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) Stainless steel package Waterproof DS18b20 temperature probe temperature sensor 18B20 For Arduino| 1.38 |
-|1 |[SR04T]() Waterproof Ultrasonic Range Distance Measurement Sensor| |
-|1 |[ESP-01](http://www.microchip.ua/wireless/esp01.pdf) Waterproof Ultrasonic Range Distance Measurement Sensor | 1.76 |
-|1 |[DS1307](https://www.sparkfun.com/datasheets/Components/DS1307.pdf) RTC module| 0.54 |
-|1 | Resistor 4.7 kΩ | |
+|Amount        | Type           | Description  |
+|:------------- |:-------------|:-----|
+| 1 | [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)|Temperature/Humidity Sensor|
+| 1 | [BMP180](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP180-DS000-12.pdf)|Digital Barometric Pressure Sensor Board Module compatible with with BMP085 For Arduino|
+|1 | [DS1820](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf)|Stainless steel package Waterproof DS18b20 temperature probe temperature sensor 18B20 For Arduino|
+|1 |[SR04T](https://www.jahankitshop.com/getattach.aspx?id=4635&Type=Product)|Waterproof Ultrasonic Range Distance Measurement Sensor| |
+|1 |[ESP-01](http://www.microchip.ua/wireless/esp01.pdf)|Waterproof Ultrasonic Range Distance Measurement Sensor
+|1 |[DS1307](https://www.sparkfun.com/datasheets/Components/DS1307.pdf)|RTC module|
+|1 |[LM317](https://datasheet.octopart.com/LM317TG-ON-Semiconductor-datasheet-613672.pdf)|1.5 A Adjustable Output, Positive Voltage Regulator|
+|1 | | Resistor 4.7 kΩ |
 
 ## Wiring
 
@@ -79,6 +80,8 @@ There needs to be a 4.7 kΩ pull-up resistor between Data and VCC.
 |GPIOx|NC|
 
 [Getting Started With the ESP8266 ESP-01](https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
+
+https://www.deviceplus.com/how-tos/arduino-guide/esp8266-setup-tutorial-using-arduino/
 
 ### DS-1307
 
